@@ -5,11 +5,11 @@
   <a href="https://www.linkedin.com/in/artur-kociszewski/">LinkedIn</a>
 </p>
 
-🎓 &nbsp;Student at WSB Merito University majoring in Marketing and Sales.
+🎓 &nbsp;MA Student in Management and Sociology in Business and Media at Kozminski University.
 
 💻 &nbsp;IT administrator at Hufiec ZHP Warszawa-Mokotów [@itwzhp](https://github.com/itwzhp).
 
-🤖 &nbsp; PHP, TypeScript and JavaScript Developer.
+🤖 &nbsp; PHP, Node.js, TypeScript and JavaScript Developer.
 
 🎶 &nbsp;Music enthusiast, concert and festival lover.
 
@@ -29,7 +29,7 @@
 const xartuu = {
   firstName: "Artur",
   lastName: "Kociszewski",
-  age: 21,
+  age: 22,
   gender: "male",
   location: "Warsaw, Poland",
   languages: ["Polish", "English"],
